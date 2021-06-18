@@ -1,6 +1,7 @@
 import React from 'react'
 import Cards from '../components/Cards'
 import { Row, Col, CardDeck } from 'react-bootstrap'
+import './Homescreen.css'
 
 const HomeScreen = () => {
     return (
